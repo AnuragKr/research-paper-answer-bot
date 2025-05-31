@@ -32,8 +32,6 @@ This project develops an intelligent chatbot, the "Research Paper Answer Bot," d
 │   │   └── web_search_agent.py # Agent for web search using Agentic Corrective RAG
 │   └── multi_user/
 │       └── conversation_manager.py # Manages multi-user conversational context
-├── data/
-│   └── papers/                 # Directory for storing research paper PDFs
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project README
 └── .env                        # Environment variables (for API keys)
