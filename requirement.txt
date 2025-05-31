@@ -1,0 +1,13 @@
+torch 
+torchvision 
+torchaudio
+scikit-learn
+transformers
+sentence-transformers
+langchain
+langchain-openai
+langchain-community
+streamlit
+PyMuPDF
+chromadb
+langchain-chroma
